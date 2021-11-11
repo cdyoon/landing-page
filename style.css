@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+body{
+    margin : 0px;
+}
+
+.container-1 {
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #1F2937;
+    color: white;
+    padding: 0px 200px 0px 200px;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    background-color: #3882F6;
+    border: none;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.header {
+}
+
+#header-links {
+    justify-content: flex-end;
+}
+.header-links {
+    list-style-type: none;
+    font-size: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-side-intro {
+    width: 50%;
+    padding-right: 20px;
+}
+
+.right-side-intro {
+    background-color: grey;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.header-links li {
+    padding: 20px;
+}
+
+.awesome-header {
+    font-weight: bolder;
+    font-size: 48px;
+    
+}
+.intro-container {
+    display: flex;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.sign-up-btn {
+    margin-top: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 4px;
+}
+
+.container-2 {
+    background-color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    padding: 25px 300px 25px 300px;
+
+}
+
+
+.c2-title {
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 36px;
+    font-weight: bolder;
+    padding-bottom: 20px;
+    
+
+}
+
+.all-4-boxes {
+    display: flex;
+
+}
+.box-total { 
+    display: flex;
+    margin: 5px;
+    width: 250px;
+    height: 250px;
+    flex-direction: column;;
+}
+
+.a-box {
+    border-color: #3882F6;
+    border-width: 3px;
+    border-style: solid;
+
+    width:150px;
+    height:150px;
+    margin: 5px;
+    border-radius: 11px;
+    
+}
+
+.c2-boxes {
+    display: flex;
+
+}
+.c2-box-words {
+    padding-top: 5px;
+    display: flex;
+}
+
+
+.box {
+    padding-left: 10px;
+    
+    width: 150px;;
+    height:auto;
+}
+
+.container-3 {
+    background-color: lightgray;
+    color: #1F2937;
+    font-size: 30px;
+    padding: 100px 350px 100px 350px;
+    font-style: italic;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
