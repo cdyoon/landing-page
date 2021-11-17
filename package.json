@@ -1,0 +1,16 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "landing",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^91.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "chris",
+  "license": "ISC"
+}
